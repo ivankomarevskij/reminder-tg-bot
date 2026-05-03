@@ -10,7 +10,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = "8649152490:AAHwNUIRlJvhbaVdBP68qy4uI54PaSxdZns"
+TOKEN = "8649152490:AAGWDo0NgaHURljT5ANotuhQtX6VnsUoFxE"
 
 reminders = {}
 
